@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # gatsby-transformer-rdf
 transformer for rdf to Gatsby
 =======
+=======
+>>>>>>> 2f6ddd2 (Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-plugin.git))
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
@@ -115,4 +118,7 @@ If you're looking for more guidance on plugins, how they work, or what their rol
 - The [Creating Plugins](https://www.gatsbyjs.com/docs/creating-plugins/) section of the docs has information on authoring and maintaining plugins yourself.
 - The conceptual guide on [Plugins, Themes, and Starters](https://www.gatsbyjs.com/docs/plugins-themes-and-starters/) compares and contrasts plugins with other pieces of the Gatsby ecosystem. It can also help you [decide what to choose between a plugin, starter, or theme](https://www.gatsbyjs.com/docs/plugins-themes-and-starters/#deciding-which-to-use).
 - The [Gatsby plugin library](https://www.gatsbyjs.com/plugins/) has over 1750 official as well as community developed plugins that can get you up and running faster and borrow ideas from.
+<<<<<<< HEAD
+>>>>>>> 2f6ddd2 (Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-plugin.git))
+=======
 >>>>>>> 2f6ddd2 (Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-plugin.git))
